@@ -1,0 +1,22 @@
+Pull request - working on someone else's project
+	- See error in their document
+	- You don't have the rights to make changes to their master
+	- Create own fork in their project, create own edited version
+	- Create pull request telling owner of changes made and they can either accept or ignore it 
+	- Essentially a request for the owner to pull your code 
+
+
+Cloning - copy others code to your desktop 
+	- May or may not make changes to it
+
+Forking - something you may have cloned 
+	- You make changes 
+	- Fork their project 
+	- It will show up almost as if it is your own project 
+	- Will say "Forked from XYZ"
+	- Then you can make the changes you want to their project 
+
+
+
+
+
